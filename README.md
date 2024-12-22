@@ -6,6 +6,8 @@ Tried to implement the classic Ping Pong game.
 - CPU movement is done by basic geometric understanding
 - There is no condition as of now which decides who won
 
+You can try out the game here in FullScreen mode : [Play](https://sumeetgedam.github.io/pong_game_using_raylib_CPP/pong.html)
+
 ![gameSnap_1](gameSnap_1.png)
 
 
